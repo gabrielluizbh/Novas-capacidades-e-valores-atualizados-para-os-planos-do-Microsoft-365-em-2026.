@@ -5,9 +5,9 @@
 
 ## **Conteúdos:**
 
-Script Wallpaper e Lockscreen no Intune.ps1
+novas capacidades-2026-m365.pdf
 
-Script de remoção do Wallpaper e Lockscreen no Intune.ps1
+novas capacidades-2026-m365.xlsx
 
 ## **Mais informações:**
 
